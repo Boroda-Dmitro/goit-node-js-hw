@@ -22,5 +22,9 @@
   "devDependencies": {
     "nodemon": "^2.0.22",
     "yarn": "^1.22.19"
+  },
+  "dependencies": {
+    "commander": "^10.0.1",
+    "nanoid": "^3.3.4"
   }
 }
